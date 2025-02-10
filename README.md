@@ -1,5 +1,5 @@
 
-# CRUD Flask Application
+# CRUD Flask Application with SQLAlchemy
 
 A simple CRUD (Create, Read, Update, Delete) application built with Flask.
 
